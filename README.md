@@ -1,12 +1,12 @@
- 📊 Sales Dashboard Analysis
+ Sales Dashboard Analysis
 
-📌 Project Overview
+ Project Overview =>
 
 This project analyzes sales performance, revenue, profit, and customer trends using Power BI. The dashboard provides interactive visualizations and KPIs that help businesses monitor performance and make data-driven decisions.
 
 ---
 
-🎯 Objective
+Objective
 
 * Analyze overall sales performance
 * Track revenue and profit trends
@@ -17,7 +17,7 @@ This project analyzes sales performance, revenue, profit, and customer trends us
 
 ---
 
-🛠 Tools & Technologies Used
+Tools & Technologies Used
 
 * Power BI
 * DAX
@@ -26,7 +26,7 @@ This project analyzes sales performance, revenue, profit, and customer trends us
 
 ---
 
-📈 Key Features
+Key Features
 
 * Revenue Analysis Dashboard
 * Profit Analysis
@@ -38,7 +38,7 @@ This project analyzes sales performance, revenue, profit, and customer trends us
 
 ---
 
-📊 Business Insights
+Business Insights
 
 * Identified top-performing products and categories
 * Analyzed revenue and profit growth trends
@@ -48,30 +48,32 @@ This project analyzes sales performance, revenue, profit, and customer trends us
 
 ---
 
-📂 Dataset
+Dataset
 
 Sales Dataset
 
 ---
 
-📷 Dashboard Preview
+ Dashboard Preview
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/266893eb-4495-4314-8e0c-3dfb30fc6559" />
 
 
 ---
 
-🚀 Project Outcome
+Project Outcome
 
 The dashboard enables businesses to monitor sales performance, identify growth opportunities, and improve profitability through interactive data visualization and analytics.
 
 ---
 
-👩‍💻 Author
+ Author
 
-**Anjali Yadav**
+Anjali Yadav
 
-📧 Email: yadavanjaliyadav1124@gmail.com
+ Email ID: yadavanjaliyadav1124@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/anjali-yadav-130628415
+LinkedIn: https://linkedin.com/in/anjali-yadav-130628415
 
-💻 GitHub: https://github.com/anjal1124/Sales-Dashboard-Analysis.git
+GitHub: https://github.com/anjal1124/Sales-Dashboard-Analysis.git
+
+ Portfolio link: https://anjal1124.github.io/Data-analyst-portfolio/
