@@ -60,6 +60,10 @@ Sales Dataset
 
 ---
 
+Dashboard Demo Video
+
+ Watch Dashboard Demo => https://youtu.be/mxAuc_7GUdc
+
 Project Outcome
 
 The dashboard enables businesses to monitor sales performance, identify growth opportunities, and improve profitability through interactive data visualization and analytics.
